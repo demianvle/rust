@@ -1,0 +1,6 @@
+[package]
+name = "temp_ex"
+version = "0.1.0"
+authors = ["demianvle <demianvle@protonmail.com>"]
+
+[dependencies]
