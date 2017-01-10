@@ -5,8 +5,9 @@ fn main() {
   let x = result();  
   println!("{}", x );
 
-  println!("´Dos horas intentando actualizar el repositorio de con git bash! Me falta leer!");
+  println!("´Dos horas intentando actualizar el repositorio de con git bash! Me falta leer!   https://github.com/demianvle/rust");
 
+  println!("Me aseguro de hacerlo algunas veces para no olvidar");
 }
 
 
